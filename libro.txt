@@ -1,7 +1,7 @@
 ----------------------- libro.txt -----------------------
 La BIBLIA
 
-AUTORES: Jairo, Alejandro, Juan
+AUTORES: Jairo Pulido, Alejandro Toro, Juan Muñoz
 
 
 
