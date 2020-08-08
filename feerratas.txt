@@ -2,5 +2,10 @@
 FE DE ERRATAS
 
 
+<<<<<<< HEAD
 * El término de la página (por lo general) 15 es impreSiso.
 ---------------------------------------------------------
+=======
+* El término de la página por lo general 15 es impreciso.
+---------------------------------------------------------
+>>>>>>> Arreglo completo de errores de ortografia
