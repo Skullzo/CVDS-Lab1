@@ -1,0 +1,18 @@
+----------------------- libro.txt -----------------------
+La BIBLIA
+
+AUTORES: Jairo, Alejandro, Juan
+
+
+
+
+
+
+CAPITULO UNO
+
+
+CAPITULO DOS
+
+
+CAPITULO TRES
+---------------------------------------------------------
