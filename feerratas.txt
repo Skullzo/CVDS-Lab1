@@ -2,4 +2,9 @@
 FE DE ERRATAS
 
 
+<<<<<<< HEAD
 * El tErmino de la pagima (por lo general) 15 es impreSiso.
+=======
+* El término de la págima (por lo general) 15 es impreSiso.
+---------------------------------------------------------
+>>>>>>> 38359a2... ARREGLADO ERROR DE ORTOGRAFIA
