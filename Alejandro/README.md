@@ -11,6 +11,8 @@ Actualmente cursando 8vo semestre teniendo en cuenta el nuevo plan de estudios d
   * TPRO
   * FCLP
   * SIML
+## Informacion acerca de la Ingenieria de Sistemas
+Es una rama interdisciplinaria de la ingeniería que permite estudiar y comprender la realidad, con el propósito de implementar u optimizar sistemas complejos. Puede también verse como la aplicación tecnológica de la teoría de sistemas a los esfuerzos de la ingeniería, adoptando en todo este trabajo el paradigma sistémico. La ingeniería de sistemas integra otras disciplinas y grupos de especialidad en un esfuerzo de equipo, formando un proceso de desarrollo centrado. [Wikipedia](https://es.wikipedia.org/wiki/Ingenier%C3%ADa_de_sistemas)
 ## Pasatiempos favoritos
   1. Jugar futbol
   2. Jugar videojuegos
