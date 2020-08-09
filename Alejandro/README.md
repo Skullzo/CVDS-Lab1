@@ -28,3 +28,4 @@ Python
 # Parte III. - Git Branching
 ## Principal
 <img src="https://github.com/JuanMunozD/CVDS1/blob/master/Alejandro/img/Principal.png">
+## Remota
