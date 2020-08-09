@@ -25,3 +25,6 @@ Es una rama interdisciplinaria de la ingeniería que permite estudiar y comprend
 ```
 Python
 ```
+## Parte III
+### Principal
+<img src="https://github.com/JuanMunozD/CVDS1/blob/master/Alejandro/img/Principal.png">
