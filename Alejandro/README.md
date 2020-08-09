@@ -4,7 +4,7 @@ Primer laboratorio 1
 Alejandro Toro Daza
 ## Datos básicos
 Estudiante de pregrado del programa de **Ingeniería de Sistemas** en la **Escuela Colombiana de Ingenieria Julio Garavito**.
-Actualmente cursando 8vo semestre teniendo en cuenta el nuevo plan de estudios de dicho programa.
+Actualmente cursando *8vo* semestre teniendo en cuenta el nuevo plan de estudios de dicho programa.
 ## Plan de estudios actual
   * **CVDS**
   * SPTI
