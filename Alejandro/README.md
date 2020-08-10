@@ -28,7 +28,9 @@ Python
 # Parte III. - Git Branching
 ## Principal
 <img src="https://github.com/JuanMunozD/CVDS1/blob/master/Alejandro/img/Principal.png">
+
 ## Remota
 <img src="https://github.com/JuanMunozD/CVDS1/blob/master/Alejandro/img/Remota.png">
+
 ## Finalización del último nivel
 <img src="https://github.com/JuanMunozD/CVDS1/blob/master/Alejandro/img/UltimoNivel.png">
