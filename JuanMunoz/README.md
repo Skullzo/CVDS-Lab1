@@ -35,3 +35,18 @@ Primero nació el programa de ingeniería civil, luego vinieron los de eléctric
 ```
 print("Hello, World!")
 ```
+
+
+
+# Parte III Primer Laboratorio CVDS
+
+## Parte Principal
+<img  src="https://github.com/JuanMunozD/CVDS1/blob/master/JuanMunoz/img/PartePrincipal.png">
+
+## Parte Remota
+
+<img  src="https://github.com/JuanMunozD/CVDS1/blob/master/JuanMunoz/img/ParteRemota.png">
+
+## Finalizado
+
+<img  src="https://github.com/JuanMunozD/CVDS1/blob/master/JuanMunoz/img/Finalizado.png">
