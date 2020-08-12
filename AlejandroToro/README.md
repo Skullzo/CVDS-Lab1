@@ -19,7 +19,7 @@ Es una rama interdisciplinaria de la ingeniería que permite estudiar y comprend
   3. Ir al gimnasio
   4. Ver series
 ## Videojuego favorito
-<img  src="https://github.com/JuanMunozD/CVDS1/blob/master/Alejandro/img/codmw.jpg">
+<img  src="https://github.com/JuanMunozD/CVDS1/blob/master/AlejandroToro/img/codmw.jpg">
 
 ## Lenguaje de programación favorito
 ```
@@ -27,10 +27,10 @@ Python
 ```
 # Parte III. - Git Branching
 ## Principal
-<img src="https://github.com/JuanMunozD/CVDS1/blob/master/Alejandro/img/Principal.png">
+<img src="https://github.com/JuanMunozD/CVDS1/blob/master/AlejandroToro/img/Principal.png">
 
 ## Remota
-<img src="https://github.com/JuanMunozD/CVDS1/blob/master/Alejandro/img/Remota.png">
+<img src="https://github.com/JuanMunozD/CVDS1/blob/master/AlejandroToro/img/Remota.png">
 
 ## Finalización del último nivel
-<img src="https://github.com/JuanMunozD/CVDS1/blob/master/Alejandro/img/UltimoNivel.png">
+<img src="https://github.com/JuanMunozD/CVDS1/blob/master/AlejandroToro/img/UltimoNivel.png">
