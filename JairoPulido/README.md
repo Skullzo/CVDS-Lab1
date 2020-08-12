@@ -31,8 +31,7 @@ Jairo Eduardo Pulido Rincón
  <img src="https://github.com/JuanMunozD/CVDS1/blob/master/JairoPulido/img/pp.jpg">
  2. En mis tiempos libres me gusta realizar caminatas o leer algunos libros. Mis géneros favoritos son suspenso,policiaco y terror.
  <img src="https://github.com/JuanMunozD/CVDS1/blob/master/JairoPulido/img/libro.jpg"> 
- 3. Para el ocio también lo paso en videojuegos, algunos títulos son: LoL, WoW, Assassin's Creed, The Witcher, Valorant, [Dead By Daylight][1].
- [1]:https:store.steampowered.com/app/381210/Dead_by_Daylight/?l=spanish
+ 3. Para el ocio también lo paso en videojuegos, algunos títulos son: LoL, WoW, Assassin's Creed, The Witcher, Valorant y [Dead By Daylight](https:store.steampowered.com/app/381210/Dead_by_Daylight/?l=spanish)
  
  4. De ingeniería de sistemas me llama más la atención la parte de infraestructura y gerencia. 
 
